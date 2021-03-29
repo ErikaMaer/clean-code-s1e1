@@ -44,13 +44,16 @@
   margin: 0;
   padding: 0px;
 }
-.list-item, .title {
+.list-item,
+.title {
   list-style: none;
 }
-.list-item-checkbox{
+.list-item-checkbox {
   outline: none;
 }
-.add-button, .edit, .delete {
+.add-button,
+.edit,
+.delete {
   background: none;
   outline: none;
   border: 0px;
