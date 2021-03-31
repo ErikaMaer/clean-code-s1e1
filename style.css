@@ -132,7 +132,7 @@
 .tasks__input {
   width: 226px;
 }
-.tasks__delete-button{
+.tasks__delete-button {
   height: 32px;
 }
 .tasks__delete-button:hover {
